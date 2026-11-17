@@ -29,7 +29,7 @@ Preview versions are not signed with a paid certificate yet, so your system asks
 
 ## Features
 
-**Tabs, not vaults.** Open any `.md` file from anywhere, like in Notepad++. No vault, no account, no library to import into. Your tabs come back when you reopen the app, including unsaved and untitled ones.
+**Tabs, not vaults.** Open any `.md` file from anywhere, like in Notepad++. No vault, no account, no library to import into. Your tabs come back when you reopen the app, including unsaved and untitled ones. Right-click a tab to close tabs in groups, rename the file, show it in its folder or copy its path.
 
 **Four ways to work.** Text (the Markdown source), Visual (edit the formatted page directly), Split (source and preview side by side) and Read.
 
@@ -37,7 +37,7 @@ Preview versions are not signed with a paid certificate yet, so your system asks
 
 ![Split mode: Markdown source on the left, formatted preview on the right](assets/split.png)
 
-**Code and data files too.** Open YAML, JSON, Python, SQL, XML and many other files: more than 140 languages, each with its own syntax colors. Pick the language from the status bar, as in Notepad++. The Format button tidies JSON, YAML, XML and SQL, in a whole file or in a code block inside a document.
+**Code and data files too.** Open YAML, JSON, Python, SQL, XML and many other files: more than 130 languages, each with its own syntax colors. Pick the language from the status bar, as in Notepad++. The Format button tidies JSON, YAML, XML and SQL (any database's syntax), in a whole file or in a code block inside a document.
 
 ![Language selector open over a Python file](assets/languages.png)
 
@@ -98,13 +98,13 @@ As versões de prévia ainda não são assinadas com certificado pago, então o 
 
 ## Recursos
 
-**Abas, sem cofre.** Abra qualquer arquivo `.md` de qualquer pasta, como no Notepad++. Sem cofre, sem conta, sem biblioteca para importar. As abas voltam quando você reabre o app, incluindo as não salvas e as sem título.
+**Abas, sem cofre.** Abra qualquer arquivo `.md` de qualquer pasta, como no Notepad++. Sem cofre, sem conta, sem biblioteca para importar. As abas voltam quando você reabre o app, incluindo as não salvas e as sem título. Clique com o botão direito numa aba para fechar abas em grupo, renomear o arquivo, mostrá-lo na pasta ou copiar o caminho.
 
 **Quatro jeitos de trabalhar.** Texto (o código Markdown), Visual (edita a página formatada direto), Dividido (código e prévia lado a lado) e Leitura.
 
 **Salva só o que você mudou.** Edite um parágrafo no modo Visual e só esse parágrafo muda no disco. Marcadores de lista, estilo dos títulos, linhas em branco, quebras de linha e codificação no resto do arquivo ficam idênticos, byte a byte.
 
-**Arquivos de código e dados também.** Abra YAML, JSON, Python, SQL, XML e muitos outros arquivos: mais de 140 linguagens, cada uma com suas cores. Escolha a linguagem na barra de status, como no Notepad++. O botão Formatar organiza JSON, YAML, XML e SQL, no arquivo inteiro ou num bloco de código dentro de um documento.
+**Arquivos de código e dados também.** Abra YAML, JSON, Python, SQL, XML e muitos outros arquivos: mais de 130 linguagens, cada uma com suas cores. Escolha a linguagem na barra de status, como no Notepad++. O botão Formatar organiza JSON, YAML, XML e SQL (de qualquer banco de dados), no arquivo inteiro ou num bloco de código dentro de um documento.
 
 **Diagramas que você desenha.** Os diagramas Mermaid aparecem enquanto você digita. Fluxogramas, diagramas de sequência, Gantt e pizza também têm editores visuais: você adiciona etapas, participantes ou fatias num formulário e o Cube4MD escreve o código Mermaid.
 
