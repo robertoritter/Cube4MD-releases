@@ -14,10 +14,13 @@ Get the latest version on the [Releases page](../../releases/latest).
 | System | File |
 |---|---|
 | Windows 10 and 11 | `Cube4MD_…_x64-setup.exe` (installer) or `Cube4MD_…_x64_en-US.msi` / `_pt-BR.msi`; `Cube4MD-portable.exe` runs without installing |
-| macOS 11 or newer | `Cube4MD_…_universal.dmg` (coming soon) |
+| macOS 11 or newer, Apple chip (M1 and later) | `Cube4MD_…_aarch64.dmg` (Intel Macs: coming soon) |
 | Linux (Debian, Ubuntu) | `Cube4MD_…_amd64.deb` |
 
-Preview versions are not signed yet: Windows SmartScreen may ask you to confirm ("More info" > "Run anyway").
+Preview versions are not signed with a paid certificate yet, so the system asks you to confirm the first time:
+
+- **Windows:** SmartScreen may show a warning. Click "More info" > "Run anyway".
+- **macOS:** open the `.dmg` and drag Cube4MD to Applications. The first time you open it, macOS says it could not verify the app and offers only "Done" or "Move to Trash". Click **Done**, then open **System Settings > Privacy & Security**, scroll down to Security and click **Open Anyway** next to Cube4MD, then confirm. You only do this once.
 
 ## What it does
 
@@ -55,10 +58,13 @@ Baixe a versão mais recente na [página de Releases](../../releases/latest).
 | Sistema | Arquivo |
 |---|---|
 | Windows 10 e 11 | `Cube4MD_…_x64-setup.exe` (instalador) ou `Cube4MD_…_x64_en-US.msi` / `_pt-BR.msi`; `Cube4MD-portable.exe` roda sem instalar |
-| macOS 11 ou mais novo | `Cube4MD_…_universal.dmg` (em breve) |
+| macOS 11 ou mais novo, chip Apple (M1 em diante) | `Cube4MD_…_aarch64.dmg` (Macs Intel: em breve) |
 | Linux (Debian, Ubuntu) | `Cube4MD_…_amd64.deb` |
 
-As versões de prévia ainda não são assinadas: o SmartScreen do Windows pode pedir confirmação ("Mais informações" > "Executar assim mesmo").
+As versões de prévia ainda não são assinadas com certificado pago, então o sistema pede confirmação na primeira vez:
+
+- **Windows:** o SmartScreen pode mostrar um aviso. Clique em "Mais informações" > "Executar assim mesmo".
+- **macOS:** abra o `.dmg` e arraste o Cube4MD para Aplicativos. Na primeira vez que abrir, o macOS diz que não conseguiu verificar o app e mostra só "OK" ou "Mover para o Lixo". Clique em **OK**, abra **Ajustes do Sistema > Privacidade e Segurança**, role até Segurança e clique em **Abrir Mesmo Assim** ao lado do Cube4MD, depois confirme. Isso só é preciso uma vez.
 
 ## O que ele faz
 
