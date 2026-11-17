@@ -15,7 +15,7 @@ Download the latest version from the [Releases page](../../releases/latest).
 | System | File |
 |---|---|
 | Windows 10 and 11 | `Cube4MD_…_x64-setup.exe` (installer), or `Cube4MD_…_x64_en-US.msi` / `_pt-BR.msi` (MSI installer in English or Portuguese). `Cube4MD-portable.exe` runs without installing. |
-| macOS 11 or later, Apple silicon (M1 or newer) | `Cube4MD_…_aarch64.dmg` (Intel Macs: coming soon) |
+| macOS 11 or later, Apple silicon (M1 or newer) | `Cube4MD_…_aarch64.dmg` |
 | Linux (Debian, Ubuntu and derivatives) | `Cube4MD_…_amd64.deb` |
 
 The interface is in English or Portuguese and follows your system language.
@@ -84,7 +84,7 @@ Baixe a versão mais recente na [página de Releases](../../releases/latest).
 | Sistema | Arquivo |
 |---|---|
 | Windows 10 e 11 | `Cube4MD_…_x64-setup.exe` (instalador), ou `Cube4MD_…_x64_en-US.msi` / `_pt-BR.msi` (instalador MSI em inglês ou português). `Cube4MD-portable.exe` roda sem instalar. |
-| macOS 11 ou mais novo, chip Apple (M1 em diante) | `Cube4MD_…_aarch64.dmg` (Macs Intel: em breve) |
+| macOS 11 ou mais novo, chip Apple (M1 em diante) | `Cube4MD_…_aarch64.dmg` |
 | Linux (Debian, Ubuntu e derivados) | `Cube4MD_…_amd64.deb` |
 
 A interface é em inglês ou português e segue o idioma do sistema.
