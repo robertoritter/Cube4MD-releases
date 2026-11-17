@@ -36,6 +36,8 @@ Preview versions are not signed yet: Windows SmartScreen may ask you to confirm 
 
 Your documents never leave your computer. No account, no cloud, no telemetry, no analytics, no automatic updates. The app is locked so it cannot send anything: its window refuses every internet connection and navigation outside the app, the native side has no network code, and exported HTML loads nothing from the internet. Web links open in your browser only when you click them.
 
+**Images.** For the same reason Cube4MD shows only local images that are in the document's folder or its subfolders (`assets/photo.png`, `images/x.png`) and never loads images from the internet. An image elsewhere (`../images/x.png`, `C:\Photos\x.png`) or online appears as a short note saying why. To use it, drag or paste the image into the document: Cube4MD copies it to an `assets` folder next to the document and links it there. Why the limit: the window shows documents like a web page and reads local images through an internal channel; limiting that channel to the document's folder means that even a malicious document that found a flaw could not see any other file on your computer.
+
 ## License
 
 Cube4MD is **freeware**: free to download and use, at home or at work, but not open source. Only Cube4Code builds and distributes it. See the [Cube4MD Freeware License](LICENSE). It includes open source components that keep their own licenses.
@@ -71,6 +73,8 @@ As versões de prévia ainda não são assinadas: o SmartScreen do Windows pode 
 ## Privacidade
 
 Seus documentos nunca saem do seu computador. Sem conta, sem nuvem, sem telemetria, sem estatísticas de uso, sem atualização automática. O app é travado para não conseguir enviar nada: a janela recusa qualquer conexão com a internet e qualquer navegação para fora do app, o lado nativo não tem código de rede e o HTML exportado não carrega nada da internet. Links da web abrem no seu navegador só quando você clica.
+
+**Imagens.** Pelo mesmo motivo, o Cube4MD só mostra imagens locais que estão na pasta do documento ou nas subpastas dela (`assets/foto.png`, `imagens/x.png`) e nunca carrega imagens da internet. Uma imagem em outro lugar (`../imagens/x.png`, `C:\Fotos\x.png`) ou na internet aparece como um aviso curto explicando o motivo. Para usá-la, arraste ou cole a imagem no documento: o Cube4MD copia para a pasta `assets` ao lado dele e cria o link. Por que a trava: a janela mostra o documento como uma página web e lê as imagens locais por um canal interno; limitar esse canal à pasta do documento faz com que, mesmo que um documento malicioso achasse uma falha, ele não conseguisse ver nenhum outro arquivo do seu computador.
 
 ## Licença
 
