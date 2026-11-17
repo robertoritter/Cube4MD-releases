@@ -37,7 +37,7 @@ Preview versions are not signed with a paid certificate yet, so your system asks
 
 ![Split mode: Markdown source on the left, formatted preview on the right](assets/split.png)
 
-**Code and data files too.** Open YAML, JSON, Python, SQL, XML and many other files: more than 130 languages, each with its own syntax colors. Pick the language from the status bar, as in Notepad++. The Format button tidies JSON, YAML, XML and SQL (any database's syntax), in a whole file or in a code block inside a document.
+**Code and data files too.** Open YAML, JSON, Python, SQL, XML and many other files: more than 130 languages, each with its own syntax colors. Pick the language from the status bar, as in Notepad++. The Format button tidies JSON (Python dicts and JSON5 too), YAML, XML and SQL (any database's syntax), in a whole file or in a code block inside a document. HTML files also open in Split and Read, drawn as a page next to the code; their scripts never run and nothing is loaded from the internet.
 
 ![Language selector open over a Python file](assets/languages.png)
 
@@ -104,7 +104,7 @@ As versões de prévia ainda não são assinadas com certificado pago, então o 
 
 **Salva só o que você mudou.** Edite um parágrafo no modo Visual e só esse parágrafo muda no disco. Marcadores de lista, estilo dos títulos, linhas em branco, quebras de linha e codificação no resto do arquivo ficam idênticos, byte a byte.
 
-**Arquivos de código e dados também.** Abra YAML, JSON, Python, SQL, XML e muitos outros arquivos: mais de 130 linguagens, cada uma com suas cores. Escolha a linguagem na barra de status, como no Notepad++. O botão Formatar organiza JSON, YAML, XML e SQL (de qualquer banco de dados), no arquivo inteiro ou num bloco de código dentro de um documento.
+**Arquivos de código e dados também.** Abra YAML, JSON, Python, SQL, XML e muitos outros arquivos: mais de 130 linguagens, cada uma com suas cores. Escolha a linguagem na barra de status, como no Notepad++. O botão Formatar organiza JSON (também dicionários do Python e JSON5), YAML, XML e SQL (de qualquer banco de dados), no arquivo inteiro ou num bloco de código dentro de um documento. Arquivos HTML também abrem no Dividido e no Leitura, desenhados como página ao lado do código; os scripts nunca rodam e nada é carregado da internet.
 
 **Diagramas que você desenha.** Os diagramas Mermaid aparecem enquanto você digita. Fluxogramas, diagramas de sequência, Gantt e pizza também têm editores visuais: você adiciona etapas, participantes ou fatias num formulário e o Cube4MD escreve o código Mermaid.
 
