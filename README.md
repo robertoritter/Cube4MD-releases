@@ -10,7 +10,7 @@
 
 ## Download
 
-Download the latest version from the [Releases page](../../releases/latest).
+Download the latest version from the [Releases page](../../releases/latest). What changed in each version: [version history](CHANGELOG.md).
 
 | System | File |
 |---|---|
@@ -79,7 +79,7 @@ Cube4MD is **freeware**: free to download and use, at home or at work, but it is
 
 ## Download
 
-Baixe a versão mais recente na [página de Releases](../../releases/latest).
+Baixe a versão mais recente na [página de Releases](../../releases/latest). O que mudou em cada versão: [histórico de versões](CHANGELOG.md#histórico-de-versões).
 
 | Sistema | Arquivo |
 |---|---|
