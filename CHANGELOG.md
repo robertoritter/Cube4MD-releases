@@ -4,6 +4,13 @@ Only the latest version is available for download on the [Releases page](https:/
 
 [Português](#histórico-de-versões)
 
+## 0.2.0 preview 6 (November 22, 2026)
+
+- Zoom the text with Ctrl + mouse wheel (Cmd + wheel on a Mac) and with a touchpad or trackpad pinch, as well as from the View menu
+- Zoom applies only to the document's text in Text and Visual modes; menus, side panel, Split and Read stay at their normal size
+- The status bar shows the zoom level; click it to go back to 100%
+- The portable Windows version now has the version in its file name
+
 ## 0.2.0 preview 5 (November 19, 2026)
 
 - Pasting over selected text always replaces it, as in any editor. Pasting a web address over another one no longer creates a `[text](address)` link
@@ -52,6 +59,13 @@ The first public versions of the app:
 # Histórico de versões
 
 Só a versão mais recente fica disponível para baixar na [página de Releases](https://github.com/robertoritter/Cube4MD-releases/releases/latest): as previews anteriores tinham erros que as seguintes corrigiram. Esta página guarda o que mudou em cada versão.
+
+## 0.2.0 preview 6 (22 de novembro de 2026)
+
+- Zoom do texto com Ctrl + roda do mouse (Cmd + roda no Mac) e com a pinça no touchpad ou trackpad, além do menu Exibir
+- O zoom vale só para o texto do documento nos modos Texto e Visual; menus, painel lateral, Dividido e Leitura ficam no tamanho normal
+- A barra de status mostra o nível do zoom; um clique nele volta para 100%
+- A versão portátil do Windows agora tem a versão no nome do arquivo
 
 ## 0.2.0 preview 5 (19 de novembro de 2026)
 
